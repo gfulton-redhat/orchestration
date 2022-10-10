@@ -14,7 +14,6 @@ In this hip pocket session we are going to explore Immutable Orchestration.
 * Accountablity
 * Immutablity
 
-
 ## Practical
 
 ### Declarative Single Source Of Truth(SSOT)
@@ -28,10 +27,16 @@ Given our SSOT we are able to apply immutable changes
 
 ### Platform Automation
 
-* Cluster Deployment
-* Cluster Configuration
-* Project Deployment
-* Project Configuration
-* Application Deployment
-* Application Configuration
+* Cluster Repository
+  * Deployment 
+  * Configuration 
+  * Policy
+* Project Repository
+  * Deployment 
+  * Configuration
+  * Policy
+* Application Repository
+  * Deployment
+  * Configuration
+  * Policy
 
