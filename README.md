@@ -31,12 +31,18 @@ Given our SSOT we are able to apply immutable changes
   * Deployment 
   * Configuration 
   * Policy
-* Project Repository
+  * 
+Project Repository
+* Project 
   * Deployment 
   * Configuration
   * Policy
-* Application Repository
-  * Deployment
-  * Configuration
-  * Policy
+  
+  
+  
+* The application repository should produce an immutable container image from source code. 
+* The application configuration repository shall provide a default configuruations.
+* The application policy respository shall provide default policies.
+
+
 
