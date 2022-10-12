@@ -2,9 +2,6 @@
 
 In this hip pocket session we are going to explore the concept of single source.
 
-**Orchestration:** The planning or coordination of the elements to produce a desired effect.
-
-### Single Source Of Truth
 Single source of truth is the practice of aggregating versioned data to a single location.
 
 ***Declarative Artifacts***
