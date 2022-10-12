@@ -1,11 +1,11 @@
-# Single Source Orchestration
+# Single Source Of Truth
 
-In this hip pocket session we are going to explore the concept of Immutable Orchestration.
+In this hip pocket session we are going to explore the concept of single source.
 
 **Orchestration:** The planning or coordination of the elements to produce a desired effect.
 
 ### Single Source Of Truth
-A single source of truth is the practice of aggregating data to a single location where versioned data be found via a single reference point.
+Single source of truth is the practice of aggregating versioned data to a single location.
 
 ***Declarative Artifacts***
 * Configurations
@@ -15,15 +15,15 @@ A single source of truth is the practice of aggregating data to a single locatio
 * Source Code
 * Reports
 
-### Auditable
+### 
 
 #### Tagging
 Whether you rolling back or rolling foward source control tagging references your work as just a single point in time.
 
-### Accountablity / Tracability
-When things go sideways it is tempting to just solve the problem and move on. With transparency comes the ability to follow issues to the original developer ensure a holistic solution.
+### Auditable
+When things go sideways it is tempting to just solve the problem and move on. The ability to follow issues to the source ensure holistic solutions.
 
 ## Tools
 * Source Control Management
-* Integration
-* Deployment
+* Integration Stacks
+* Deployment Drivers
